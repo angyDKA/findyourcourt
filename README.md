@@ -2,7 +2,7 @@
 
 **FindYourCourt** est une application web permettant aux passionnés de sport collectif de réserver facilement un terrain selon le lieu, la date et l’horaire souhaités. Le site facilite la mise en relation des joueurs avec les infrastructures disponibles.
 
-Ce projet a été **entièrement conçu et développé** en **4 mois** par le groupe **SummitPartners**, dans le cadre de l’approche par projet en **Développement Web** à l’ISEP.
+Ce projet a été **entièrement conçu et développé** en **4 mois** par mon groupe **SummitPartners**, dans le cadre de l’approche par projet en **Développement Web** à l’ISEP.
 
 ---
 ## Liens vers le site web hébergé en ligne
